@@ -1,0 +1,7 @@
+{
+  "name": "teach-agents",
+  "description": "Reviews the current session for durable, non-obvious nuances and proposes AGENTS.md updates so future agents don't rediscover them.",
+  "version": "1.0.0",
+  "author": { "name": "Aaron Klump" },
+  "repository": "https://github.com/aklump/skill-teach-agents"
+}
