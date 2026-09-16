@@ -1,6 +1,6 @@
 # Claude Skill: Teach Agents
 
-This skill mines nuggets learned in the current session and writes them for future sessions, reducing ramp-up time for agents working on your application in the future.
+This skill mines nuggets learned in the current session and writes them to AGENTS.md, reducing ramp-up time for agents working on your application in the future.
 
 ## Install as a Private Skill
 
